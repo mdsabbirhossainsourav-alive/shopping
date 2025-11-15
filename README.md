@@ -45,5 +45,7 @@ I will buy Punjabi
 ##Sample Output 2
 
 I will buy Punjabi
+
 I will buy new shoes
+
 Alisa will buy new shoes
